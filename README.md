@@ -24,9 +24,9 @@
 ## App
   ### Modo Oscuro 
   <p align="center">
-    <img height="600" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/1_black.gif"/> 
-    <img height="600" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/2_black.gif"/> 
-    <img height="600" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/3_black.gif"/> 
+    <img height="500" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/1_black.gif"/> 
+    <img height="500" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/2_black.gif"/> 
+    <img height="500" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/3_black.gif"/> 
 
   </p>
 
