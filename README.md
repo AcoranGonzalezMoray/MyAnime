@@ -93,7 +93,7 @@
    npx react-native run-ios
    ```
 ### Notas
-<li>Recomiendo encarecidamente compilar y ejecutar este proyecto con Java 17, para evitar incompatibilidades con los distintos paquetes instalados con npm</li>
+<li>Recomiendo encarecidamente compilar y ejecutar este proyecto con Java JDK 17, para evitar incompatibilidades con los distintos paquetes instalados con npm</li>
 
 
 
