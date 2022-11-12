@@ -32,9 +32,9 @@
 
   ### Modo Claro 
   <p align="center">
-    <img height="600" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/1_white.gif"/> 
-    <img height="600" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/2_white.gif"/> 
-    <img height="600" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/3_white.gif"/> 
+    <img height="500" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/1_white.gif"/> 
+    <img height="500" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/2_white.gif"/> 
+    <img height="500" src="https://github.com/AcoranGonzalezMoray/MyAnime/blob/main/gif/3_white.gif"/> 
   </p>
 
 ## Framework e APIs usadas
