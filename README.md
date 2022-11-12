@@ -9,6 +9,11 @@
 </p>
 <p>MyAnime es una app de Entretenimiento/Informativa para estar al tanto de las ultimas películas o animes estrenados con  trailers, sinopsis, fecha, episodios duración ...etc,  además la app incorpora un apartado 'Shorts' el cuál permite buscar videos hechos por usuarios de  "Pexels" mediante palabras clave</p>
 
+
+## Contenido
+
+
+
 ## App
 ### Modo Oscuro 
 <p align="center">
@@ -34,5 +39,37 @@
 ## Funciones
 <li>Muestra información de Anime / Peliculas (Trailer - Imagenes - Episodios - Descripción - ...)</li>
 <li>Permite filtrado con buscador por nombre tanto para la pantalla de "Anime" como "Film"</li>
-<li>Permite filtrado por categoría *Solo pantalla "Anime"*</li>
-## Setup
+<li>Permite filtrado por categoría *Solo pantalla Anime*</li>
+
+## Instalación
+
+### Pasos:
+
+#### Clonar Repositorio
+ ```
+ git clone
+ ```
+ 
+ #### Instalar dependencias del proyecto
+ ```
+ 
+ ```
+ 
+ #### Clonar Repositorio
+ ```
+ 
+ ```
+ 
+ #### Ejecutar Aplicación
+ ##### Android:
+ ```
+ npx react-native run-android
+ ```
+ ##### Ios:
+ ```
+ npx react-native run-ios
+ ```
+
+
+
+
