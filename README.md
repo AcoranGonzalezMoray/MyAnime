@@ -1,4 +1,4 @@
-# MyAnime-App
+# MyAnime
 
 <p>sdgfsdagaregwertbwerterter</p>
 
