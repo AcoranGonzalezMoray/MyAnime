@@ -59,7 +59,7 @@
 
   #### Instalar dependencias del proyecto
   ```
-  npm install
+  npm install (--legacy-peer-deps solo si npm ERR!)
   ```
  
 #### Editar enlaces API añadiendo tu clave
