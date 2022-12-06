@@ -94,6 +94,11 @@
    ```
 ### Notas
 <li>Recomiendo encarecidamente compilar y ejecutar este proyecto con Java JDK 17, para evitar incompatibilidades con los distintos paquetes instalados con npm</li>
+<li>En futuros proyectos si al ejecutar en debug encuentras BUG! exception in phase 'semantic analysis' entonces:</li>
+El problema es que usa una version Java x y Gradle x.x Pero Gradle x.x no es compatible con Java x. 
 
-
+Necesitaba actualizar el graddle. Simplemente se cambia gradle/wrapper/gradle-wrapper.propertiesen esta línea (encontrando el gradel compatible):
+ ```
+distributionUrl=https\://services.gradle.org/distributions/gradle-7.0-bin.zip
+ ```
 
